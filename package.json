@@ -4,9 +4,7 @@
   "description": "Um projeto para treinar programação",
   "main": "index.js",
   "scripts": {
-    "dev": "next dev",
-    "build": "next build",
-    "vercel-build": "next run build"
+    "dev": "next dev"
   },
   "author": "",
   "license": "MIT",
